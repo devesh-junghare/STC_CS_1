@@ -18,7 +18,7 @@ Step 1: Make sure you have Python 3 installed on your system.
 Step 2: Navigate to the script directory using a terminal.  
 Step 3: Run the script using:
 ```bash
- python caesar_cipher.py
+ python Caesar_Cipher_Algorithm.py
 ```
 Output :-
 ```bash
@@ -26,7 +26,7 @@ Output :-
 └─$ Desktop
                                                                                                                                                                                                                                            
 ┌──(kali㉿kali)-[~/Desktop]
-└─$ python caesar_cipher.py
+└─$ python Caesar_Cipher_Algorithm.py
 Enter your message: HELLO WORLD
 Enter shift value: 3
 Encrypt or Decrypt? (e/d): e
